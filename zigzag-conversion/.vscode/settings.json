@@ -12,6 +12,6 @@
         "cppcoreguidelines-owning-memory"
     ],
     "files.associations": {
-        "vector": "cpp"
+        "ostream": "cpp"
     }
 }

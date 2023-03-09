@@ -10,8 +10,5 @@
     "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
         "cppcoreguidelines-prefer-member-initializer",
         "cppcoreguidelines-owning-memory"
-    ],
-    "files.associations": {
-        "vector": "cpp"
-    }
+    ]
 }
